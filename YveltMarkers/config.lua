@@ -7,7 +7,7 @@ Config = {
         {varName = 'interactDistance', varType = 'number'},
         {varName = 'interactKey', varType = 'number'},
         {varName = 'helpMsg', varType = 'string'},
-        {varName = 'showCondition', varType = 'function'},
-        {varName = 'onInteract', varType = 'function'},
+        {varName = 'showCondition', varType = 'table'},
+        {varName = 'onInteract', varType = 'table'},
     },
 }
